@@ -1,4 +1,4 @@
-//  even and odd
+//  print if number is even or odd 
 #include<stdio.h>
 main()
 {
